@@ -1,0 +1,13 @@
+# Вихідні файли
+bin/
+obj/
+*.exe
+*.dll
+
+# Файли Visual Studio
+*.suo
+*.user
+*.vs
+
+# Логи
+*.log
